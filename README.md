@@ -1,0 +1,1 @@
+This repositThis repository provides instructions and scripts to train a custom object detection model using YOLOv9 on Google Colab. YOLOv9 is a state-of-the-art, real-time object detection system that can detect multiple objects in an image with high accuracy and speed.
